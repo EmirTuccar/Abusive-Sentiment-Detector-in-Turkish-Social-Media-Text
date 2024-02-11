@@ -1,5 +1,18 @@
 # Abusive-Sentiment-Detector-in-Turkish-Social-Media-Text
 
+These models were trained by using HATC dataset which made by:
+"Karayiğit, Habibe, Çiğdem İnan Acı, and Ali Akdağlı. "Detecting abusive Instagram comments in Turkish using convolutional Neural network and machine learning methods." Expert Systems with Applications 174 (2021): 114802."
+
+We just made a little addition to this dataset(We can't publish it because of license issue) with Reddit API and trained models to find which one is best for abusive sentiment detection.
+
+Ensemble Model and Random Forest trained models size is so big so here is the download links.
+
+Random Forest
+https://drive.google.com/file/d/1eTMv-VGgb4bojJvLAHy4Z9tI42AvX06U/view?usp=drive_link
+
+Ensemble model with RF and SVM
+https://drive.google.com/file/d/1t4NPSLGfjzqzmp0p3uzYNZPNrTL3nBkF/view?usp=drive_link
+
 
 Reddit API
 
